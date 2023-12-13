@@ -1,0 +1,7 @@
+{
+  "name": "CS-API",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
